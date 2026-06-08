@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "ru.promocodiki",
+    "sha256_cert_fingerprints":
+    ["A8:DA:FB:B7:16:5F:FA:FC:CD:B2:37:BF:E3:3F:2D:52:EC:F8:DB:DF:FB:39:C3:70:86:7D:0F:B7:C8:2C:56:3C"]
+  }
+}]
